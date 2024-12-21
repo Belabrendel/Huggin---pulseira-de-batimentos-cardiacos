@@ -120,11 +120,16 @@ Os dados são enviados no formato JSON, por exemplo:
   O repositorio nao contem os codigos do frontend ( formatei meu pc e esqueci de salvar ), mas o front foi feito usando python, html, css e javascript. O site recebia os dados postados no broker mqtt e com isso, printava eles a todo tempo na tela (ao vivo) e caso o valor do batimento superasse uns 150 batimentos por minuto, ele mandava uma mensagem via sms para um contato pre-estabelecido pelo usuario da plataforma. Seguem imagens:
 
 <p align="center">
-    <img src="image.png" alt="imagem" width="500">
-</p>
-
-<p align="center">
     <img src="image(1).png" alt="imagem" width="500">
 </p>
+<br>
+<p align="center">
+    <img src="image.png" alt="imagem" width="500">
+</p>
+<br>
+<p align="center">
+    <img src="WhatsApp%20Image%202024-12-21%20at%2009.15.47.jpeg" alt="imagem" width="500">
+</p>
+
 
 
