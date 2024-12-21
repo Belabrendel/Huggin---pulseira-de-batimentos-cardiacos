@@ -4,6 +4,8 @@
 
 ## Pulseira de Batimentos Cardíacos conectada a plataforma de ajuda
 
+![imagem](~/WhatsApp Image 2024-12-21 at 08.49.29.jpeg)
+
 ### Visão Geral
 
 Este repositório contém um conjunto de códigos para implementar um monitor de batimentos cardíacos usando um sensor "pulse sensor", um microcontrolador (como ESP32), e o protocolo MQTT para transmissão dos dados coletados. O projeto também incorpora uma máquina de estados para monitorar e notificar sobre batimentos anormais. Os dados coletados sao passados para uma plataforma que disponibiliza os batimentos em tempo real e caso eles estejam muito altos ele manda um alerta na tela e em caso de ausencia de respostas, manda uma mensagem de alerta para algum contato de emergencia do usuario.
