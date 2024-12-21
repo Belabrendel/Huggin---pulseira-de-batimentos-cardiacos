@@ -4,7 +4,7 @@
 
 ## Pulseira de Batimentos Cardíacos conectada a plataforma de ajuda
 
-![imagem](WhatsApp%20Image%202024-12-21%20at%2008.49.29.jpeg)
+<img src="WhatsApp%20Image%202024-12-21%20at%2008.49.29.jpeg" alt="imagem" width="300">
 
 ### Visão Geral
 
